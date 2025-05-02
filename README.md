@@ -29,7 +29,7 @@ A special thanks to the original contributor of the code, even though I can no l
 
 2. Run the program:
     ```bash
-    python heart_animation.py
+    python main.py
     ```
 
 3. If everything works correctly, a window will pop up displaying the beating heart animation.
